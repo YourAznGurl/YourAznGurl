@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @YourAznGurl
-- 👀 I’m interested in learning python!
+- 👋 Hi, I’m Ena Tarumi
+- 👀 I’m interested in Computer Science!
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
