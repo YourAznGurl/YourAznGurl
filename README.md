@@ -1,10 +1,22 @@
-- 👋 Hi, I’m Ena Tarumi
-- 👀 I’m interested in Computer Science!
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+# Hi, I'm Ena 👋  
+**Bachelor of Arts in Computer Science @ Florida Atlantic University**  
+Machine Learning • Data Science
+
+I’m learning how to build end‑to‑end machine learning pipelines and work with real datasets using Python.  
+Recently built a full ML pipeline for flight‑delay prediction, earning **2nd Runner‑Up** in my AI course’s Best‑in‑Class Project competition.
+
+### 🔧 Tech I Use
+Python • Pandas • NumPy • Scikit‑Learn  
+Jupyter • Streamlit • Git & GitHub
+
+### 🎯 Current Focus
+- Strengthening Python fundamentals  
+- Improving ML model evaluation  
+- Building more real‑world projects
+
+### 📫 Connect
+Always open to learning and collaboration.
+
 
 <!---
 YourAznGurl/YourAznGurl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
