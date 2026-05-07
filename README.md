@@ -3,7 +3,11 @@
 Machine Learning • Data Science
 
 I’m learning how to build end‑to‑end machine learning pipelines and work with real datasets using Python.  
-Recently built a full ML pipeline for flight‑delay prediction, earning **2nd Runner‑Up** in my AI course’s Best‑in‑Class Project competition.
+
+### 🏆 Recent Work
+- **Flight Delay Prediction (2015 dataset)**  
+  Built a full ML pipeline from scratch — data cleaning, feature engineering, model training, evaluation, and a Streamlit interface.  
+  Earned **2nd Runner‑Up** in my AI course’s Best‑in‑Class Project competition.
 
 ### 🔧 Tech I Use
 Python • Pandas • NumPy • Scikit‑Learn  
