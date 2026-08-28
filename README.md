@@ -16,7 +16,7 @@ A full machine learning pipeline built from scratch:
 - Interactive Streamlit dashboard
 
 Award: 2nd Runner‑Up in my AI course’s Best‑in‑Class Project competition  
-Repo: https://github.com/YourAznGurl/2015-flight-delay-prediction
+Repo: https://github.com/YourAznGurl/2015-Flight-Delay-Prediction
 
 ---
 
