@@ -29,7 +29,7 @@ Built with:
 - Local AI model via Ollama
 - Custom prompt engineering
 
-Repo: https://github.com/YourAznGurl/meaning-translator
+Repo: https://github.com/YourAznGurl/MeaningAI-Translator
 
 ---
 
