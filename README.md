@@ -1,6 +1,6 @@
 # Hi, I'm Ena 👋
 ## Bachelor of Arts in Computer Science @ Florida Atlantic University
-### Machine Learning • Data Science • AI Tools • Python Development • iOS Development
+### AI Tools • Python Development • iOS Development • Machine Learning
 
 I’m learning how to build end‑to‑end machine learning pipelines, work with real datasets, and develop practical AI tools using Python — plus building iOS apps with Swift.
 
