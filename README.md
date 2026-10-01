@@ -1,4 +1,4 @@
-# Hi, I'm Ena 👋
+# Hi, I'm Ena Tarumi (垂水映那）👋
 ## Bachelor of Arts in Computer Science @ Florida Atlantic University
 ### AI Tools • Python Development • iOS Development • Machine Learning
 
