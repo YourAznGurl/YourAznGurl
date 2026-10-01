@@ -34,11 +34,11 @@ Repo: https://github.com/YourAznGurl/MeaningAI-Translator
 ---
 
 ## 🎯 Current Focus
+- Growing my iOS development skills
 - Strengthening Python fundamentals
 - Improving ML model evaluation
 - Building more real‑world AI tools
 - Expanding my translator project
-- Growing my iOS development skills
 
 ---
 
